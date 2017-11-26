@@ -1,0 +1,1 @@
+﻿Start-Process -Wait -FilePath "C:\Downloads\Firefox.exe" -ArgumentList ' /S '
